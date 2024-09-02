@@ -1,0 +1,44 @@
+# Compile of register.v was successful.
+# Compile of buffer8.v was successful.
+# Compile of buffer4.v was successful.
+# Compile of controller.v was successful.
+# Compile of adder.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux4.v was successful.
+# Compile of memory.v failed with 1 errors.
+# Compile of datapath.v was successful.
+# Compile of tb.v was successful.
+# 10 compiles, 1 failed with 1 error.
+# Compile of register.v was successful.
+# Compile of buffer8.v was successful.
+# Compile of buffer4.v was successful.
+# Compile of controller.v was successful.
+# Compile of adder.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux4.v was successful.
+# Compile of memory.v was successful.
+# Compile of datapath.v was successful.
+# Compile of tb.v was successful.
+# 10 compiles, 0 failed with no errors.
+# Compile of register.v was successful.
+# Compile of buffer8.v was successful.
+# Compile of buffer4.v was successful.
+# Compile of controller.v failed with 1 errors.
+# Compile of adder.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux4.v was successful.
+# Compile of memory.v was successful.
+# Compile of datapath.v was successful.
+# Compile of tb.v was successful.
+# 10 compiles, 1 failed with 1 error.
+# Compile of register.v was successful.
+# Compile of buffer8.v was successful.
+# Compile of buffer4.v was successful.
+# Compile of controller.v was successful.
+# Compile of adder.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux4.v was successful.
+# Compile of memory.v was successful.
+# Compile of datapath.v was successful.
+# Compile of tb.v was successful.
+# 10 compiles, 0 failed with no errors.

@@ -1,0 +1,296 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAdder
+Z0 !s110 1701711683
+!i10b 1
+!s100 9^60PlnYcX^k1`g[b^EV:1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ILC5dB^2SQ:oIhMHbXzZ521
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Mohammad Reza/Desktop/New folder (19)
+w1701586944
+8C:/Users/Mohammad Reza/Desktop/New folder (19)/adder.v
+FC:/Users/Mohammad Reza/Desktop/New folder (19)/adder.v
+!i122 284
+Z4 L0 1 3
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1701711683.000000
+!s107 C:/Users/Mohammad Reza/Desktop/New folder (19)/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Mohammad Reza/Desktop/New folder (19)/adder.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@adder
+vBuffer4
+R0
+!i10b 1
+!s100 VK>SZCf9G5g5Y7n<[YNH]3
+R1
+I]5`PR9M1oU:<3a:DmFfHG3
+R2
+R3
+w1701614491
+8C:/Users/Mohammad Reza/Desktop/New folder (19)/buffer4.v
+FC:/Users/Mohammad Reza/Desktop/New folder (19)/buffer4.v
+!i122 282
+L0 1 16
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Mohammad Reza/Desktop/New folder (19)/buffer4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Mohammad Reza/Desktop/New folder (19)/buffer4.v|
+!i113 1
+R7
+R8
+n@buffer4
+vBuffer8
+R0
+!i10b 1
+!s100 <RMN:1SfkF[E[G:goY8RH2
+R1
+I8?@jjle]KQ7J6Ub6GGj820
+R2
+R3
+w1701700369
+8C:/Users/Mohammad Reza/Desktop/New folder (19)/buffer8.v
+FC:/Users/Mohammad Reza/Desktop/New folder (19)/buffer8.v
+!i122 281
+L0 1 24
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Mohammad Reza/Desktop/New folder (19)/buffer8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Mohammad Reza/Desktop/New folder (19)/buffer8.v|
+!i113 1
+R7
+R8
+n@buffer8
+vController
+R0
+!i10b 1
+!s100 9K6`PazIbK8f3V7CCI]z13
+R1
+I;f^]XfX8>8GKKA><nLVC_0
+R2
+R3
+w1701711678
+8C:/Users/Mohammad Reza/Desktop/New folder (19)/controller.v
+FC:/Users/Mohammad Reza/Desktop/New folder (19)/controller.v
+!i122 283
+L0 1 163
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Mohammad Reza/Desktop/New folder (19)/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Mohammad Reza/Desktop/New folder (19)/controller.v|
+!i113 1
+R7
+R8
+n@controller
+vDatapath
+R0
+!i10b 1
+!s100 AZliT`V<C8I_4JQoYHR7b0
+R1
+I4<TMRjSodYmN4bYVEUPZ]2
+R2
+R3
+w1701700578
+8C:/Users/Mohammad Reza/Desktop/New folder (19)/datapath.v
+FC:/Users/Mohammad Reza/Desktop/New folder (19)/datapath.v
+!i122 288
+L0 1 23
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Mohammad Reza/Desktop/New folder (19)/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Mohammad Reza/Desktop/New folder (19)/datapath.v|
+!i113 1
+R7
+R8
+n@datapath
+vmaxnet_tb
+!s110 1701600762
+!i10b 1
+!s100 LVBRXgm2neYSgBEfjfOI<2
+R1
+I_zJMM3d6aial=A]9@?lQ52
+R2
+R3
+w1701600729
+Z9 8C:/Users/Mohammad Reza/Desktop/New folder (19)/tb.v
+Z10 FC:/Users/Mohammad Reza/Desktop/New folder (19)/tb.v
+!i122 56
+L0 1 17
+R5
+r1
+!s85 0
+31
+!s108 1701600762.000000
+!s107 C:/Users/Mohammad Reza/Desktop/New folder (19)/tb.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Mohammad Reza/Desktop/New folder (19)/tb.v|
+!i113 1
+R7
+R8
+vMemory
+R0
+!i10b 1
+!s100 2XQGBc>0:DYNfiMPfORN?0
+R1
+IH=^MKU>D<3@HARA:0LPda0
+R2
+R3
+w1701710389
+8C:/Users/Mohammad Reza/Desktop/New folder (19)/memory.v
+FC:/Users/Mohammad Reza/Desktop/New folder (19)/memory.v
+!i122 287
+L0 1 14
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Mohammad Reza/Desktop/New folder (19)/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Mohammad Reza/Desktop/New folder (19)/memory.v|
+!i113 1
+R7
+R8
+n@memory
+vMultiplier
+R0
+!i10b 1
+!s100 AMIb@K1NA^;iO=@gMPM`:1
+R1
+IlYC5S_RDZz?^feiMoOFMA0
+R2
+R3
+w1701587121
+8C:/Users/Mohammad Reza/Desktop/New folder (19)/multiplier.v
+FC:/Users/Mohammad Reza/Desktop/New folder (19)/multiplier.v
+!i122 285
+L0 1 5
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Mohammad Reza/Desktop/New folder (19)/multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Mohammad Reza/Desktop/New folder (19)/multiplier.v|
+!i113 1
+R7
+R8
+n@multiplier
+vmux4to1
+!s110 1701609484
+!i10b 1
+!s100 5[2Lg^APo;1Yj:^NRZ_e]2
+R1
+ITV`in]_0Je3bmQ:mY?NMa1
+R2
+R3
+w1701587323
+Z12 8C:/Users/Mohammad Reza/Desktop/New folder (19)/mux4.v
+Z13 FC:/Users/Mohammad Reza/Desktop/New folder (19)/mux4.v
+!i122 145
+R4
+R5
+r1
+!s85 0
+31
+!s108 1701609484.000000
+Z14 !s107 C:/Users/Mohammad Reza/Desktop/New folder (19)/mux4.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Mohammad Reza/Desktop/New folder (19)/mux4.v|
+!i113 1
+R7
+R8
+vMux4to1
+R0
+!i10b 1
+!s100 l;9?QP8n_G]:;j;Kl:8>Q1
+R1
+I;60J@Xoeg3L3QHiWcobag3
+R2
+R3
+w1701616857
+R12
+R13
+!i122 286
+R4
+R5
+r1
+!s85 0
+31
+R6
+R14
+R15
+!i113 1
+R7
+R8
+n@mux4to1
+vRegister
+R0
+!i10b 1
+!s100 8PiP?4Wl>I:l4JdDSzNhI1
+R1
+I3bajO?MggjXzMj7`kj>[02
+R2
+R3
+w1701595831
+8C:/Users/Mohammad Reza/Desktop/New folder (19)/register.v
+FC:/Users/Mohammad Reza/Desktop/New folder (19)/register.v
+!i122 280
+L0 1 15
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Mohammad Reza/Desktop/New folder (19)/register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Mohammad Reza/Desktop/New folder (19)/register.v|
+!i113 1
+R7
+R8
+n@register
+vtb
+R0
+!i10b 1
+!s100 LKdE:FoJNLoNch>UZGPoI0
+R1
+ImE3=HXVlKLc0YP4>CJgIK0
+R2
+R3
+w1701700670
+R9
+R10
+!i122 289
+L0 1 18
+R5
+r1
+!s85 0
+31
+R6
+Z16 !s107 C:/Users/Mohammad Reza/Desktop/New folder (19)/tb.v|
+R11
+!i113 1
+R7
+R8
